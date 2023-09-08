@@ -1,4 +1,4 @@
-# INFO5100-002926233-assignment-4 Healthcare management system
+# Healthcare management system
 
 | Name | Northeastern EmailID | NEU ID
 | :---: | :---: | :---: |
@@ -14,7 +14,7 @@ git@github.com:ruthwik-northeastern/INFO5100-002926233-assignment-4.git
 
 ### How to run
 
-- Open the NetBeans.
+- Open NetBeans.
 - Click on play button
 
 ###Requirements
